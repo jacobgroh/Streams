@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "fortnite",
+      "id": 1
+    },
+    {
+      "title": "Dr Lubo",
+      "description": "fortnite all day",
+      "id": 2
+    },
+    {
+      "title": "brooke",
+      "description": "Make-up",
+      "userId": "113637023027560373413",
+      "id": 3
+    },
+    {
+      "title": "Danielle",
+      "description": "Greys Viewing",
+      "userId": "113637023027560373413",
+      "id": 4
+    }
+  ]
+}
